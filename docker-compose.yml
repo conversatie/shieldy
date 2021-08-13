@@ -10,7 +10,7 @@ services:
       MONGO_SHIELDY_PASSWORD_FILE: /run/secrets/mongo_shieldy_password
       MONGO_INITDB_DATABASE: shieldyDB
       TOKEN_FILE: /run/secrets/shieldy_token
-      ADMIN: 658158536
+      ADMIN: 973861411
     secrets:
       - shieldy_token
       - mongo_shieldy_password
